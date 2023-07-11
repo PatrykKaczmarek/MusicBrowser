@@ -1,0 +1,10 @@
+//
+// MusicBrowser.pch
+// MusicBrowser
+//
+
+#pragma mark - Global imports
+
+#ifdef __OBJC__
+    #import "UIView+Extensions.h"
+#endif

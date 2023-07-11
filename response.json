@@ -1,0 +1,232 @@
+{
+  "playlists": [
+    {
+      "id": "0",
+      "albums": [
+        "1",
+        "8",
+        "10",
+        "12",
+        "2"
+      ],
+      "title": "Favorites"
+    },
+    {
+      "id": "1",
+      "albums": [
+        "3",
+        "14",
+        "18",
+        "0",
+        "29"
+      ],
+      "title": "To Check Out"
+    },
+    {
+      "id": "2",
+      "albums": [
+        "17",
+        "16",
+        "15",
+        "6",
+        "4",
+        "31"
+      ],
+      "title": "Friday's Jams"
+    },
+    {
+      "id": "3",
+      "albums": [
+        "5",
+        "13",
+        "7",
+        "9",
+        "11"
+      ],
+      "title": "Editor's Picks"
+    },
+    {
+      "id": "4",
+      "albums": [
+        "27",
+        "19",
+        "20",
+        "23",
+        "28"
+      ],
+      "title": "This Year's Best"
+    },
+    {
+      "id": "5",
+      "albums": [
+        "21",
+        "22",
+        "24",
+        "25",
+        "26"
+      ],
+      "title": "Workout Mix"
+    },
+    {
+      "id": "6",
+      "albums": [
+        "41",
+        "42",
+        "43"
+      ],
+      "title": "The Dead Zone"
+    }
+  ],
+  "albums": [
+    {
+      "id": "0",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/6a/The_Impossible_Kid_Album_Cover.jpg",
+      "title": "The Impossible Kid"
+    },
+    {
+      "id": "1",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/25/ArcadeFireFuneralCover.jpg",
+      "title": "Funeral"
+    },
+    {
+      "id": "2",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/41/Beach_House_7_artwork.jpg",
+      "title": "Seven"
+    },
+    {
+      "id": "3",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/ec/Revolver_%28album_cover%29.jpg",
+      "title": "Revolver"
+    },
+    {
+      "id": "4",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/3f/Bjork_Post.png",
+      "title": "Post"
+    },
+    {
+      "id": "5",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/10/Childish_Gambino_-_Awaken%2C_My_Love%21.png",
+      "title": "Awaken My Love"
+    },
+    {
+      "id": "6",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/df/Chvrches_-_The_Bones_of_What_You_Believe.png",
+      "title": "The Bones of What You Believe"
+    },
+    {
+      "id": "7",
+      "imageUrl": "_NO_IMAGE_",
+      "title": "A Color Map of the Sun"
+    },
+    {
+      "id": "8",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e6/ForLackofaBetterNameAlbum.jpg",
+      "title": "For Lack of a Better Name"
+    },
+    {
+      "id": "9",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/16/Deftones_-_White_Pony-greycoverart.jpg",
+      "title": "White Pony"
+    },
+    {
+      "id": "10",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2a/Depeche_Mode_-_Some_Great_Reward.png",
+      "title": "Some Great Reward"
+    },
+    {
+      "id": "11",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/7b/Cancer_4_Cure.jpg",
+      "title": "Cancer 4 Cure"
+    },
+    {
+      "id": "12",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/32/Glass_animals_zaba.jpg",
+      "title": "ZABA"
+    },
+    {
+      "id": "13",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2a/Nonpoint-recoil.jpg",
+      "title": "Re-coil"
+    },
+    {
+      "id": "14",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/5a/UnknownPleasuresVinyl.jpg",
+      "title": "Unknown Pleasures"
+    },
+    {
+      "id": "15",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/44/Kids_See_Ghosts_Cover.png",
+      "title": "KIDS SEE GHOSTS"
+    },
+    {
+      "id": "16",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/7e/Lcdthisishappening.jpg",
+      "title": "This is Happening"
+    },
+    {
+      "id": "17",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/46/M83-Hurry-Up-Were-Dreaming.jpg",
+      "title": "Hurry Up, We're Dreaming"
+    },
+    {
+      "id": "18",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e9/Massive_Attack_-_Mezzanine.png",
+      "title": "Mezzanine"
+    },
+    {
+      "id": "19",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/bb/Mr_beast_cover.jpg",
+      "title": "Mr. Beast"
+    },
+    {
+      "id": "20",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/3b/Official_Album_Cover_of_%22The_Downward_Spiral%22_by_Nine_Inch_Nails.png",
+      "title": "The Downward Spiral"
+    },
+    {
+      "id": "21",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2a/Bassnectar_-_Noise_vs_Beauty.png",
+      "title": "Noise vs. Beauty"
+    },
+    {
+      "id": "22",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/cb/Poli%C3%A7a_-_Give_You_the_Ghost.jpg",
+      "title": "Give You the Ghost"
+    },
+    {
+      "id": "23",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/93/RunTheJewelsRTJ2.jpg",
+      "title": "Run the Jewels 2"
+    },
+    {
+      "id": "24",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/9c/Wonder_Where_We_Land.jpg",
+      "title": "Wonder Where We Land"
+    },
+    {
+      "id": "25",
+      "imageUrl": "_NOT_AGIN_",
+      "title": "Singularity"
+    },
+    {
+      "id": "26",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a4/Downsyde_when_dust_settles.jpg",
+      "title": "When the Dust Settles"
+    },
+    {
+      "id": "27",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/99/Aphex_twin_syro.jpg",
+      "title": "Syro"
+    },
+    {
+      "id": "28",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2d/TalkingHeadsRemaininLight.jpg",
+      "title": "Remain in Light"
+    },
+    {
+      "id": "29",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/63/Tool_-_Lateralus.jpg",
+      "title": "Lateralus"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  MusicBrowser
+*/
+
+"screen.playlist.navigation.title" = "MusicBrowser";
+"screen.playlist.navigation.title.favorites" = "My Favorites";
+"screen.playlist.navigation.button.favorites" = "My Favorites";
+"screen.playlist.navigation.button.close" = "Close";
+"screen.playlist.loading.title" = "Loading your music experience 🎧";
+"screen.playlist.empty.title" = "No albums here.";
+
+"screen.album.navigation.title" = "Details";
+
+"cell.playlist.empty.title" = "This playlist is empty.";
+
+"alert.close.text" = "Close";
+"alert.title.generic.text" = "Oh no! This is embarrassing...";
