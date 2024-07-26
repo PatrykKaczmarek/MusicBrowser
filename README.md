@@ -53,3 +53,22 @@ The application isn't rocket science, and that's intentional. It has been create
 ### API
 
 - [Mocky](https://designer.mocky.io)
+
+## FAQ
+
+#### I see "Oh no! This is embarrassing..." error. What's next?
+This error comes from an API layer. It means that a mocked response on [Mocky](https://designer.mocky.io) has expired and had been deleted. To fix this issue, please do following steps:
+
+1. Open [response.json](response.json) - it's located in this repository
+2. Open [Mocky](https://designer.mocky.io)
+3. Click on `New Mock`
+4. Copy the content of [response.json](response.json) file into the `HTTP Response Body`, like this:
+
+	![Form](Images/mocky-form.png)
+
+5. Click on `GENERATE MY HTTP RESPONSE`
+6. Copy request's path (<span style="color:red"><u>red underlined</u></span>) and replace the value in [PlaylistRequest.path](MusicBrowser/Modules/Playlist/Service/API/PlaylistRequest.swift) computed variable
+
+	![Form](Images/mocky-generated.png)
+
+7. Re-run the app

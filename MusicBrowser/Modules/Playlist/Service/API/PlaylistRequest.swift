@@ -18,6 +18,6 @@ struct PlaylistRequest: APIRequest {
     }
 
     var path: String {
-        "497e225f-3198-4455-8907-782713149520"
+        "9a119280-8d07-4a03-b562-60c727a49f49"
     }
 }
